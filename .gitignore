@@ -1,3 +1,6 @@
+.[A-Z]*
+.DS_*
+
 # Logs
 logs
 *.log
